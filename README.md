@@ -1,8 +1,8 @@
 # Mange Panel Cleaner
-# Made by
-# BAYETA IV, Reginald Geoffrey L.
-# MEGINO, Kyle Jomar C.
-# PARCO, Angelo Jose Teodorico D.
+## Made by
+### BAYETA IV, Reginald Geoffrey L.
+### MEGINO, Kyle Jomar C.
+### PARCO, Angelo Jose Teodorico D.
 
 ![image](https://user-images.githubusercontent.com/46555394/173810148-b6c5c510-af8b-4b6e-9be8-205e8bc55f79.png)
 
@@ -13,6 +13,7 @@
 3. Select Manually Cleaned image and Raw image
 ![image](https://user-images.githubusercontent.com/46555394/173810261-6cbd680a-3083-426d-a2ff-34e50c579ac8.png)
 4. Click 'START' to run processing
+
 ![image](https://user-images.githubusercontent.com/46555394/173810314-c61d047a-c199-46ac-84b7-793d33af6424.png)
 ![image](https://user-images.githubusercontent.com/46555394/173810348-ff5e9769-2bd2-4bcb-8acd-86f45be860fa.png)
 5. 'CLEAR' to clear inputs and outputs or 'SAVE' to save processed image
