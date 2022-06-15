@@ -1,8 +1,5 @@
 # Mange Panel Cleaner
-## Made by
-### BAYETA IV, Reginald Geoffrey L.
-### MEGINO, Kyle Jomar C.
-### PARCO, Angelo Jose Teodorico D.
+## Made by BAYETA IV, Reginald Geoffrey L. | MEGINO, Kyle Jomar C. | PARCO, Angelo Jose Teodorico D.
 
 ![image](https://user-images.githubusercontent.com/46555394/173810148-b6c5c510-af8b-4b6e-9be8-205e8bc55f79.png)
 
