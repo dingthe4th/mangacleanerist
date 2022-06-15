@@ -13,6 +13,7 @@ by BAYETA IV, Reginald Geoffrey L. | MEGINO, Kyle Jomar C. | PARCO, Angelo Jose 
 
 ![image](https://user-images.githubusercontent.com/46555394/173810314-c61d047a-c199-46ac-84b7-793d33af6424.png)
 ![image](https://user-images.githubusercontent.com/46555394/173810348-ff5e9769-2bd2-4bcb-8acd-86f45be860fa.png)
+
 5. 'CLEAR' to clear inputs and outputs or 'SAVE' to save processed image
 
 ## Sample Results comparison
